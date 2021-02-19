@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diego Wistuba</title>
+    <link>https://witu.cl/</link>
+    <description>Recent content on Diego Wistuba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language><atom:link href="https://witu.cl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diego S. Wistuba La Torre</title>
+      <link>https://witu.cl/cv/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://witu.cl/cv/</guid>
+      <description>Estudiante de la Universidad de Chile de 23 años con especialización en el área de tecnologías de información y comunicaciones de la ingeniería eléctrica, con gran interés en sistemas de comunicación digitales y en el uso de herramientas computacionales para el desarrollo de éstos. Buena disposición al trabajo en equipo, a la discusión constructiva y a la buena convivencia.
+&amp;mdash; Educación Universidad de Chile: Licenciado en Ciencias de la Ingeniería, mención Computación (2020)</description>
+    </item>
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>https://witu.cl/about/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://witu.cl/about/</guid>
+      <description>Diego S. Wistuba La Torre, Witu para les amigues. Soy estudiante de Ing. Civ. Eléctrica y en Computación en la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+Mis intereses principales se encuentran en las áreas de:
+ Música Redes computacionales Telecomunicaciones IoT Sistemas digitales  Actualmente trabajo en NIC Chile Research Labs (Niclabs) en lo que probablemente será mi trabajo de memoria para optar al grado de Magíster en Ciencias de la Ingeniería, mención Eléctrica.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://witu.cl/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://witu.cl/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

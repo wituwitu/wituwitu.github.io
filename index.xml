@@ -5,49 +5,41 @@
     <link>https://witu.cl/</link>
     <description>Recent content on Diego Wistuba</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://witu.cl/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <atom:link href="https://witu.cl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diego S. Wistuba La Torre</title>
       <link>https://witu.cl/cv/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://witu.cl/cv/</guid>
-      <description>Estudiante de Magíster de la Universidad de Chile con especialización en el área de tecnologías de información y comunicaciones de la ingeniería eléctrica, con gran interés en protocolos de sistemas de comunicación digitales y teoría de la información. Buena disposición al trabajo en equipo, a la discusión constructiva y al bienestar colectivo.
-&amp;mdash; Educación Universidad de Chile: Estudiante de Magíster en Ciencias de la Ingeniería, mención Eléctrica (2021–)
-Universidad de Chile: Licenciado en Ciencias de la Ingeniería, mención Computación (2015–2020)</description>
+      <description>Especialista en telecomunicaciones y redes IP, Magíster en Ingeniería Eléctrica y Licenciado en Ciencias de la Computación. Cuento con experiencia e interés en análisis de calidad de sistemas de comunicación digitales, implementación de protocolos de seguridad y desarrollo de software orientado a las telecomunicaciones. Siempre con disposición al trabajo en equipo, a la discusión constructiva y al bienestar colectivo.
+&amp;mdash; Educación Universidad de Chile: Magíster en Ciencias de la Ingeniería, mención Eléctrica; graduado con nota 7.</description>
     </item>
-    
     <item>
       <title>Diego S. Wistuba La Torre</title>
       <link>https://witu.cl/cv_en/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://witu.cl/cv_en/</guid>
-      <description>MSc. Student from Universidad de Chile specializing in the information and communications technology fields of electric engineering, with great interest in digital communication protocols, and information theory and social welfare. Good disposition to teamwork, constructive discussion and collective well-being.
-&amp;mdash; Education Universidad de Chile: (Student) Master in Engineering Sciences, mention in Electrical Engineering (2021&amp;ndash;)
-Universidad de Chile: Bachelor in Engineering Sciences, mention in Computer Science (2015&amp;ndash;2020)
-Universidad de Chile: Bachelor in Engineering Sciences, mention in Electrical Engineering (2015&amp;ndash;2019)</description>
+      <description>Telecommunications and IP networks specialist, Master in Electrical Engineering and Bachelor in Computer Science. I have experience and interest in QoS analysis of digital communication systems, implementation of security protocols and software development for telecommunications. Always willing to teamwork, constructive discussion and collective well-being.
+&amp;mdash; Education Universidad de Chile: Master in Engineering Sciences, mention in Electrical Engineering, maximum distinction (2021&amp;ndash;2023)
+Universidad de Chile: Civil Electric Engineer, maximum distinction (2015&amp;ndash;2023)
+Universidad de Chile: Bachelor in Engineering Sciences, mention in Computer Science (2015&amp;ndash;2020)</description>
     </item>
-    
     <item>
       <title>Sobre mí</title>
       <link>https://witu.cl/about/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://witu.cl/about/</guid>
-      <description>Diego S. Wistuba La Torre, Witu para les amigues. Mis pronombres son elle, él y ella. Soy estudiante de Magíster en Ciencias de la Ingeniería, mención Eléctrica, en la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+      <description>Diego S. Wistuba La Torre, Witu para les amigues. Mis pronombres son elle, él y ella. Soy especialista en redes IP, Magíster en Ciencias de la Ingeniería, mención Eléctrica, de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
 Mis intereses principales se encuentran en las áreas de:
-Música. Comunicación digital. Protocolos de comunicaciones. Teoría de la información. Actualmente trabajo en NIC Chile Research Labs (Niclabs) implementando y probando el protocolo de fragmentación y compresión SCHC en la red de Sigfox.</description>
+Música. Comunicación digital. Protocolos de comunicaciones. Teoría de la información. Actualmente trabajo en Synopsys Chile como Software Integration Engineer I, desarrollando labores de DevOps.</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://witu.cl/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://witu.cl/archives/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

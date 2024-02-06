@@ -5,7 +5,6 @@
     <link>https://witu.cl/categories/</link>
     <description>Recent content in Categories on Diego Wistuba</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
-    <atom:link href="https://witu.cl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://witu.cl/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
